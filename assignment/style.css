@@ -1,0 +1,14 @@
+body {
+    background-image: url(record.png);
+}
+
+.headerStyle {
+    background-color: #053742;
+    color: #A2DBFA;
+    text-align: center;
+}
+
+.mainContent {
+    background-color: #E8F0F2;
+    color: #39A2DB;
+}
